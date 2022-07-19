@@ -1,2 +1,1 @@
-# az-tf-portfolio-site-code
-My website code
+This site was create with the starter template of https://github.com/LekoArts/gatsby-starter-portfolio-cara. Thank you! 
